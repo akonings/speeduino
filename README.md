@@ -11,7 +11,7 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/noisymime/speeduino/202310.svg)](https://github.com/noisymime/speeduino/compare/202310...master)
 [![https://img.shields.io/discord/879495735912071269 ](https://img.shields.io/discord/879495735912071269?label=Discord&logo=Discord)](https://discord.gg/YWCEexaNDe)
 
-##### A low cost, DIY friendly Engine Management System (ECU) based on the Arduino framework
+##### A low cost, DIY friendly Engine Management System (ECU) based on the Arduino framework. Branch Arian
 </div>
 
 
